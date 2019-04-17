@@ -1,6 +1,7 @@
 package com.tw;
 
 public class HelloTest {
+    private String msg = "MASTER";
     public static void main(String[] args) {
 
         System.out.println("hello world，XiaoFei");
@@ -14,4 +15,6 @@ public class HelloTest {
     public String getBack(){
         return "hello my dear!!!";
     }
+
+
 }
