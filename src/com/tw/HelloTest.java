@@ -18,5 +18,9 @@ public class HelloTest {
         return "hello my dear!!!";
     }
 
+    public void fight(){
+        System.out.println("Keep Fight!");
+    }
+
 
 }
