@@ -10,4 +10,8 @@ public class HelloTest {
     public void print(){
         System.out.println("edit by wildestDream");
     }
+
+    public String getBack(){
+        return "hello my dear";
+    }
 }
